@@ -1,10 +1,20 @@
 import streamlit as st
 import pandas as pd
 import pickle
+import os
+
+# Debugging: Check current directory and files
+st.write("Current Directory:", os.getcwd())
+st.write("Files in Directory:", os.listdir())
 
 # Load the trained model
-with open("linear_model.pkl", "rb") as file:
-    model = pickle.load(file)
+model_path = os.path.join(os.getcwd(), "linear_model.pkl")
+if os.path.exists(model_path):
+    with open(model_path, "rb") as file:
+        model = pickle.load(file)
+    st.success("Model loaded successfully!")
+else:
+    st.error("ERROR: linear_model.pkl NOT FOUND!")
 
 # Streamlit UI
 st.title("Medical Treatment Cost Prediction")
@@ -25,3 +35,4 @@ if st.button("Predict"):
         st.success(f"Predicted Treatment Cost: ${prediction[0]:,.2f}")
     except Exception as e:
         st.error(f"An error occurred: {e}")
+
