@@ -1,0 +1,501 @@
+Age,Health Condition,Treatment Type,Estimated Cost
+48,Hypertension,Medication,237.6
+32,Healthy,Surgery,3000.0
+57,Healthy,Medication,234.0
+25,Asthma,Medication,240.0
+33,Diabetes,Surgery,3600.0
+51,Diabetes,Physical Therapy,666.0
+60,Asthma,Medication,288.0
+79,Healthy,General Checkup,139.0
+78,Diabetes,General Checkup,165.6
+37,Healthy,Physical Therapy,500.0
+47,Diabetes,Physical Therapy,642.0
+63,Healthy,Medication,246.0
+44,Healthy,Surgery,3120.0
+22,Asthma,Physical Therapy,600.0
+48,Healthy,Surgery,3240.0
+53,Asthma,General Checkup,135.6
+79,Healthy,General Checkup,139.0
+62,Healthy,Surgery,3660.0
+69,Heart Disease,Surgery,5805.0
+71,Diabetes,Physical Therapy,786.0
+78,Healthy,Surgery,4140.0
+63,Heart Disease,Medication,369.0
+78,Asthma,Physical Therapy,828.0
+56,Heart Disease,Physical Therapy,870.0
+64,Diabetes,Surgery,4464.0
+69,Asthma,Surgery,4644.0
+20,Heart Disease,Surgery,4500.0
+69,Asthma,Physical Therapy,774.0
+31,Heart Disease,Physical Therapy,750.0
+35,Diabetes,Medication,240.0
+42,Asthma,Physical Therapy,612.0
+31,Hypertension,Surgery,3300.0
+27,Heart Disease,Physical Therapy,750.0
+66,Diabetes,General Checkup,151.2
+24,Asthma,General Checkup,120.0
+56,Diabetes,General Checkup,139.2
+25,Healthy,Surgery,3000.0
+68,Healthy,Physical Therapy,640.0
+72,Healthy,General Checkup,132.0
+72,Asthma,General Checkup,158.4
+41,Hypertension,General Checkup,111.1
+41,Heart Disease,Medication,303.0
+76,Hypertension,Surgery,4488.0
+54,Diabetes,General Checkup,136.8
+35,Heart Disease,Medication,300.0
+36,Healthy,General Checkup,100.0
+75,Heart Disease,General Checkup,202.5
+71,Heart Disease,Medication,393.0
+76,Diabetes,General Checkup,163.2
+61,Hypertension,General Checkup,133.1
+58,Heart Disease,General Checkup,177.0
+25,Hypertension,Medication,220.0
+43,Hypertension,Physical Therapy,566.5
+40,Heart Disease,Medication,300.0
+32,Heart Disease,Physical Therapy,750.0
+30,Heart Disease,Medication,300.0
+47,Heart Disease,General Checkup,160.5
+49,Diabetes,Medication,261.6
+57,Asthma,General Checkup,140.4
+64,Diabetes,Medication,297.6
+79,Healthy,Surgery,4170.0
+32,Hypertension,Surgery,3300.0
+74,Healthy,Physical Therapy,670.0
+79,Heart Disease,Medication,417.0
+56,Heart Disease,Surgery,5220.0
+56,Hypertension,General Checkup,127.6
+64,Asthma,Physical Therapy,744.0
+27,Hypertension,Surgery,3300.0
+55,Asthma,Medication,276.0
+76,Diabetes,Medication,326.4
+74,Asthma,Medication,321.6
+55,Asthma,Medication,276.0
+35,Asthma,General Checkup,120.0
+53,Asthma,Physical Therapy,678.0
+36,Healthy,Medication,200.0
+46,Heart Disease,Medication,318.0
+69,Heart Disease,Surgery,5805.0
+23,Hypertension,Physical Therapy,550.0
+59,Diabetes,Medication,285.6
+78,Healthy,Surgery,4140.0
+73,Healthy,Medication,266.0
+57,Healthy,General Checkup,117.0
+18,Hypertension,Medication,220.0
+57,Heart Disease,General Checkup,175.5
+40,Hypertension,Medication,220.0
+46,Healthy,General Checkup,106.0
+76,Asthma,Medication,326.4
+18,Hypertension,General Checkup,110.0
+66,Diabetes,General Checkup,151.2
+64,Hypertension,General Checkup,136.4
+76,Heart Disease,Medication,408.0
+54,Diabetes,General Checkup,136.8
+68,Diabetes,General Checkup,153.6
+63,Hypertension,Physical Therapy,676.5
+77,Healthy,Surgery,4110.0
+49,Heart Disease,Surgery,4905.0
+48,Diabetes,Medication,259.2
+29,Asthma,Physical Therapy,600.0
+79,Diabetes,General Checkup,166.8
+29,Asthma,Physical Therapy,600.0
+42,Heart Disease,Physical Therapy,765.0
+70,Hypertension,General Checkup,143.0
+26,Heart Disease,Physical Therapy,750.0
+54,Diabetes,Surgery,4104.0
+75,Hypertension,Medication,297.0
+59,Diabetes,Medication,285.6
+50,Heart Disease,General Checkup,165.0
+77,Heart Disease,Medication,411.0
+21,Healthy,Medication,200.0
+76,Asthma,Surgery,4896.0
+79,Diabetes,General Checkup,166.8
+28,Diabetes,General Checkup,120.0
+28,Hypertension,Physical Therapy,550.0
+26,Diabetes,Physical Therapy,600.0
+21,Asthma,Medication,240.0
+75,Healthy,General Checkup,135.0
+27,Heart Disease,General Checkup,150.0
+68,Healthy,Physical Therapy,640.0
+45,Diabetes,General Checkup,126.0
+30,Healthy,Medication,200.0
+48,Asthma,Medication,259.2
+37,Hypertension,Medication,220.0
+50,Healthy,Medication,220.0
+27,Heart Disease,Surgery,4500.0
+55,Heart Disease,Surgery,5175.0
+56,Heart Disease,Physical Therapy,870.0
+51,Hypertension,Surgery,3663.0
+60,Heart Disease,Medication,360.0
+41,Asthma,Physical Therapy,606.0
+62,Healthy,General Checkup,122.0
+33,Hypertension,Surgery,3300.0
+72,Healthy,Medication,264.0
+45,Hypertension,Surgery,3465.0
+72,Heart Disease,Physical Therapy,990.0
+28,Hypertension,Surgery,3300.0
+52,Diabetes,General Checkup,134.4
+42,Asthma,Surgery,3672.0
+43,Asthma,Surgery,3708.0
+54,Heart Disease,General Checkup,171.0
+35,Hypertension,Surgery,3300.0
+49,Diabetes,Physical Therapy,654.0
+56,Hypertension,Surgery,3828.0
+52,Diabetes,General Checkup,134.4
+60,Hypertension,General Checkup,132.0
+18,Diabetes,Medication,240.0
+57,Asthma,General Checkup,140.4
+28,Asthma,General Checkup,120.0
+24,Heart Disease,Surgery,4500.0
+63,Healthy,Physical Therapy,615.0
+48,Diabetes,General Checkup,129.6
+60,Diabetes,Medication,288.0
+29,Hypertension,Surgery,3300.0
+27,Heart Disease,General Checkup,150.0
+64,Healthy,Surgery,3720.0
+24,Healthy,Medication,200.0
+60,Diabetes,Surgery,4320.0
+36,Heart Disease,Surgery,4500.0
+58,Healthy,Surgery,3540.0
+79,Hypertension,Surgery,4587.0
+69,Heart Disease,Medication,387.0
+34,Heart Disease,General Checkup,150.0
+46,Asthma,General Checkup,127.2
+39,Heart Disease,Surgery,4500.0
+71,Healthy,Physical Therapy,655.0
+64,Asthma,Physical Therapy,744.0
+71,Healthy,Physical Therapy,655.0
+25,Healthy,General Checkup,100.0
+75,Hypertension,Surgery,4455.0
+79,Asthma,Surgery,5004.0
+67,Hypertension,Physical Therapy,698.5
+60,Heart Disease,Surgery,5400.0
+76,Heart Disease,Medication,408.0
+72,Diabetes,Physical Therapy,792.0
+64,Asthma,General Checkup,148.8
+67,Healthy,Medication,254.0
+76,Asthma,Medication,326.4
+42,Hypertension,Medication,224.4
+78,Diabetes,Medication,331.2
+73,Hypertension,Physical Therapy,731.5
+39,Hypertension,Physical Therapy,550.0
+73,Hypertension,Physical Therapy,731.5
+41,Heart Disease,Surgery,4545.0
+33,Diabetes,Surgery,3600.0
+56,Asthma,Surgery,4176.0
+26,Heart Disease,General Checkup,150.0
+34,Heart Disease,Medication,300.0
+22,Diabetes,Surgery,3600.0
+59,Asthma,Medication,285.6
+57,Healthy,Surgery,3510.0
+64,Healthy,Physical Therapy,620.0
+73,Asthma,Physical Therapy,798.0
+68,Hypertension,Surgery,4224.0
+24,Diabetes,Surgery,3600.0
+65,Healthy,Physical Therapy,625.0
+69,Healthy,Medication,258.0
+27,Hypertension,Medication,220.0
+54,Heart Disease,Surgery,5130.0
+77,Heart Disease,Surgery,6165.0
+19,Healthy,General Checkup,100.0
+38,Heart Disease,Physical Therapy,750.0
+26,Asthma,Physical Therapy,600.0
+37,Asthma,Medication,240.0
+64,Diabetes,Physical Therapy,744.0
+53,Hypertension,Physical Therapy,621.5
+51,Diabetes,Physical Therapy,666.0
+47,Hypertension,Physical Therapy,588.5
+36,Hypertension,Surgery,3300.0
+54,Asthma,General Checkup,136.8
+36,Diabetes,Medication,240.0
+46,Asthma,Medication,254.4
+30,Diabetes,Surgery,3600.0
+24,Healthy,Medication,200.0
+48,Asthma,Physical Therapy,648.0
+29,Hypertension,General Checkup,110.0
+42,Diabetes,General Checkup,122.4
+34,Diabetes,General Checkup,120.0
+37,Healthy,Surgery,3000.0
+20,Hypertension,Medication,220.0
+77,Asthma,Medication,328.8
+70,Diabetes,General Checkup,156.0
+65,Hypertension,General Checkup,137.5
+23,Healthy,General Checkup,100.0
+72,Healthy,Medication,264.0
+34,Healthy,General Checkup,100.0
+52,Hypertension,Physical Therapy,616.0
+46,Healthy,General Checkup,106.0
+27,Hypertension,Medication,220.0
+35,Diabetes,Surgery,3600.0
+37,Diabetes,Physical Therapy,600.0
+79,Healthy,Medication,278.0
+60,Hypertension,Medication,264.0
+69,Asthma,General Checkup,154.8
+23,Heart Disease,General Checkup,150.0
+32,Hypertension,Physical Therapy,550.0
+76,Healthy,Medication,272.0
+26,Asthma,Physical Therapy,600.0
+33,Diabetes,Medication,240.0
+38,Asthma,Physical Therapy,600.0
+37,Healthy,Surgery,3000.0
+47,Diabetes,Physical Therapy,642.0
+53,Hypertension,General Checkup,124.3
+42,Diabetes,Physical Therapy,612.0
+63,Asthma,Medication,295.2
+68,Diabetes,Physical Therapy,768.0
+73,Hypertension,Physical Therapy,731.5
+25,Hypertension,Physical Therapy,550.0
+51,Hypertension,General Checkup,122.1
+37,Heart Disease,Surgery,4500.0
+46,Healthy,Medication,212.0
+58,Asthma,Medication,283.2
+24,Hypertension,Surgery,3300.0
+70,Hypertension,Medication,286.0
+59,Heart Disease,General Checkup,178.5
+24,Heart Disease,General Checkup,150.0
+77,Hypertension,General Checkup,150.7
+65,Healthy,General Checkup,125.0
+46,Healthy,General Checkup,106.0
+36,Healthy,General Checkup,100.0
+71,Asthma,Physical Therapy,786.0
+52,Asthma,Surgery,4032.0
+67,Heart Disease,Physical Therapy,952.5
+47,Diabetes,Physical Therapy,642.0
+57,Diabetes,General Checkup,140.4
+37,Hypertension,Physical Therapy,550.0
+48,Diabetes,Physical Therapy,648.0
+38,Asthma,Physical Therapy,600.0
+68,Diabetes,Surgery,4608.0
+51,Hypertension,Surgery,3663.0
+63,Hypertension,Medication,270.6
+49,Asthma,General Checkup,130.8
+57,Hypertension,Medication,257.4
+49,Asthma,Surgery,3924.0
+27,Hypertension,General Checkup,110.0
+45,Asthma,Medication,252.0
+48,Asthma,General Checkup,129.6
+62,Heart Disease,Medication,366.0
+41,Healthy,General Checkup,101.0
+42,Asthma,General Checkup,122.4
+64,Healthy,Surgery,3720.0
+49,Diabetes,Physical Therapy,654.0
+37,Asthma,Medication,240.0
+19,Heart Disease,Surgery,4500.0
+37,Heart Disease,Medication,300.0
+26,Diabetes,Physical Therapy,600.0
+78,Hypertension,Physical Therapy,759.0
+61,Heart Disease,Medication,363.0
+79,Hypertension,Medication,305.8
+42,Diabetes,General Checkup,122.4
+40,Heart Disease,Medication,300.0
+41,Hypertension,Medication,222.2
+18,Heart Disease,General Checkup,150.0
+73,Hypertension,Physical Therapy,731.5
+21,Heart Disease,General Checkup,150.0
+57,Asthma,Surgery,4212.0
+49,Diabetes,Physical Therapy,654.0
+74,Healthy,Medication,268.0
+28,Asthma,Surgery,3600.0
+54,Hypertension,Surgery,3762.0
+74,Diabetes,Physical Therapy,804.0
+21,Healthy,General Checkup,100.0
+71,Diabetes,Medication,314.4
+41,Healthy,Medication,202.0
+40,Hypertension,Surgery,3300.0
+71,Asthma,Surgery,4716.0
+44,Asthma,Surgery,3744.0
+22,Heart Disease,Physical Therapy,750.0
+25,Healthy,Physical Therapy,500.0
+51,Asthma,Medication,266.4
+33,Asthma,Medication,240.0
+27,Diabetes,Medication,240.0
+74,Healthy,General Checkup,134.0
+23,Diabetes,General Checkup,120.0
+73,Diabetes,General Checkup,159.6
+23,Heart Disease,Medication,300.0
+64,Healthy,Surgery,3720.0
+19,Hypertension,General Checkup,110.0
+65,Hypertension,Medication,275.0
+77,Diabetes,Medication,328.8
+46,Diabetes,General Checkup,127.2
+20,Heart Disease,Surgery,4500.0
+41,Healthy,General Checkup,101.0
+18,Heart Disease,Physical Therapy,750.0
+38,Diabetes,Medication,240.0
+24,Healthy,Surgery,3000.0
+57,Asthma,Medication,280.8
+58,Hypertension,Physical Therapy,649.0
+76,Heart Disease,Medication,408.0
+20,Heart Disease,General Checkup,150.0
+34,Hypertension,Medication,220.0
+59,Healthy,Medication,238.0
+71,Asthma,Surgery,4716.0
+31,Hypertension,Surgery,3300.0
+75,Heart Disease,General Checkup,202.5
+35,Asthma,Surgery,3600.0
+21,Asthma,Medication,240.0
+60,Heart Disease,Physical Therapy,900.0
+34,Asthma,Surgery,3600.0
+42,Healthy,Medication,204.0
+57,Heart Disease,General Checkup,175.5
+48,Asthma,Medication,259.2
+21,Hypertension,Surgery,3300.0
+39,Hypertension,Surgery,3300.0
+74,Heart Disease,Physical Therapy,1005.0
+31,Heart Disease,Physical Therapy,750.0
+51,Asthma,Medication,266.4
+41,Heart Disease,General Checkup,151.5
+46,Healthy,Medication,212.0
+54,Asthma,General Checkup,136.8
+47,Asthma,Surgery,3852.0
+37,Asthma,Physical Therapy,600.0
+27,Asthma,Medication,240.0
+64,Asthma,Medication,297.6
+37,Asthma,Surgery,3600.0
+26,Hypertension,Medication,220.0
+40,Hypertension,Physical Therapy,550.0
+69,Asthma,Surgery,4644.0
+70,Hypertension,Surgery,4290.0
+43,Healthy,General Checkup,103.0
+60,Asthma,Medication,288.0
+67,Heart Disease,Medication,381.0
+39,Diabetes,Surgery,3600.0
+40,Hypertension,Physical Therapy,550.0
+64,Diabetes,General Checkup,148.8
+27,Heart Disease,General Checkup,150.0
+73,Hypertension,Medication,292.6
+57,Asthma,General Checkup,140.4
+63,Diabetes,General Checkup,147.6
+60,Heart Disease,Physical Therapy,900.0
+56,Hypertension,General Checkup,127.6
+31,Hypertension,Surgery,3300.0
+63,Asthma,General Checkup,147.6
+24,Diabetes,Physical Therapy,600.0
+43,Healthy,Physical Therapy,515.0
+45,Heart Disease,General Checkup,157.5
+74,Heart Disease,Surgery,6030.0
+47,Hypertension,Surgery,3531.0
+58,Asthma,Physical Therapy,708.0
+45,Diabetes,Medication,252.0
+20,Diabetes,General Checkup,120.0
+50,Heart Disease,Surgery,4950.0
+20,Hypertension,Medication,220.0
+78,Hypertension,Surgery,4554.0
+33,Asthma,Surgery,3600.0
+32,Heart Disease,Medication,300.0
+23,Healthy,Medication,200.0
+27,Asthma,General Checkup,120.0
+67,Asthma,Medication,304.8
+20,Asthma,Surgery,3600.0
+79,Diabetes,Surgery,5004.0
+49,Diabetes,General Checkup,130.8
+33,Hypertension,Physical Therapy,550.0
+40,Asthma,Physical Therapy,600.0
+43,Asthma,General Checkup,123.6
+61,Hypertension,Surgery,3993.0
+53,Asthma,Medication,271.2
+79,Asthma,Surgery,5004.0
+61,Diabetes,Medication,290.4
+45,Healthy,Surgery,3150.0
+46,Heart Disease,General Checkup,159.0
+64,Heart Disease,General Checkup,186.0
+45,Asthma,Medication,252.0
+61,Hypertension,Physical Therapy,665.5
+19,Heart Disease,Medication,300.0
+45,Diabetes,Physical Therapy,630.0
+65,Diabetes,General Checkup,150.0
+25,Healthy,Medication,200.0
+55,Hypertension,Medication,253.0
+65,Diabetes,General Checkup,150.0
+65,Asthma,Surgery,4500.0
+48,Hypertension,Medication,237.6
+69,Hypertension,General Checkup,141.9
+28,Asthma,Physical Therapy,600.0
+28,Hypertension,Physical Therapy,550.0
+27,Asthma,Medication,240.0
+25,Asthma,Physical Therapy,600.0
+54,Hypertension,Physical Therapy,627.0
+31,Hypertension,Medication,220.0
+49,Heart Disease,Surgery,4905.0
+56,Hypertension,Physical Therapy,638.0
+72,Hypertension,Medication,290.4
+40,Diabetes,Medication,240.0
+53,Healthy,Surgery,3390.0
+74,Healthy,Surgery,4020.0
+20,Heart Disease,Physical Therapy,750.0
+52,Hypertension,General Checkup,123.2
+78,Healthy,General Checkup,138.0
+73,Hypertension,General Checkup,146.3
+28,Hypertension,Surgery,3300.0
+23,Hypertension,Medication,220.0
+79,Heart Disease,General Checkup,208.5
+56,Hypertension,Surgery,3828.0
+18,Healthy,Medication,200.0
+58,Diabetes,Medication,283.2
+61,Hypertension,Surgery,3993.0
+37,Diabetes,Physical Therapy,600.0
+70,Healthy,Surgery,3900.0
+61,Asthma,Surgery,4356.0
+19,Heart Disease,Physical Therapy,750.0
+20,Healthy,Medication,200.0
+75,Diabetes,Physical Therapy,810.0
+65,Asthma,Medication,300.0
+19,Hypertension,Medication,220.0
+62,Heart Disease,Physical Therapy,915.0
+79,Hypertension,Surgery,4587.0
+76,Asthma,Medication,326.4
+26,Asthma,General Checkup,120.0
+38,Heart Disease,General Checkup,150.0
+56,Asthma,Physical Therapy,696.0
+21,Hypertension,General Checkup,110.0
+71,Heart Disease,Medication,393.0
+33,Heart Disease,General Checkup,150.0
+74,Heart Disease,Medication,402.0
+49,Diabetes,Physical Therapy,654.0
+67,Asthma,Medication,304.8
+40,Diabetes,General Checkup,120.0
+74,Diabetes,Medication,321.6
+18,Asthma,Medication,240.0
+45,Healthy,Physical Therapy,525.0
+25,Healthy,Physical Therapy,500.0
+31,Diabetes,Physical Therapy,600.0
+73,Healthy,Physical Therapy,665.0
+79,Healthy,General Checkup,139.0
+53,Asthma,Surgery,4068.0
+47,Hypertension,Medication,235.4
+26,Asthma,General Checkup,120.0
+50,Hypertension,Surgery,3630.0
+74,Hypertension,Physical Therapy,737.0
+49,Healthy,Physical Therapy,545.0
+74,Asthma,Physical Therapy,804.0
+77,Healthy,Medication,274.0
+37,Heart Disease,General Checkup,150.0
+65,Diabetes,General Checkup,150.0
+61,Heart Disease,Surgery,5445.0
+43,Diabetes,Surgery,3708.0
+36,Diabetes,Physical Therapy,600.0
+30,Heart Disease,General Checkup,150.0
+28,Healthy,General Checkup,100.0
+56,Asthma,Medication,278.4
+38,Diabetes,Physical Therapy,600.0
+20,Healthy,Medication,200.0
+44,Hypertension,General Checkup,114.4
+78,Asthma,Physical Therapy,828.0
+39,Asthma,Medication,240.0
+41,Heart Disease,Physical Therapy,757.5
+71,Asthma,Surgery,4716.0
+52,Hypertension,Physical Therapy,616.0
+35,Asthma,General Checkup,120.0
+44,Asthma,Medication,249.6
+31,Diabetes,Medication,240.0
+25,Asthma,Medication,240.0
+37,Heart Disease,Physical Therapy,750.0
+54,Heart Disease,General Checkup,171.0
+64,Hypertension,Physical Therapy,682.0
+38,Hypertension,Surgery,3300.0
+65,Heart Disease,Physical Therapy,937.5
+63,Diabetes,Medication,295.2
+50,Heart Disease,Surgery,4950.0
+43,Healthy,Physical Therapy,515.0
+61,Healthy,Physical Therapy,605.0
+27,Hypertension,Physical Therapy,550.0
