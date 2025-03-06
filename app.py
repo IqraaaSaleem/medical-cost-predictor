@@ -3,9 +3,7 @@ import pandas as pd
 import pickle
 import os
 
-# Debugging: Check current directory and files
-st.write("Current Directory:", os.getcwd())
-st.write("Files in Directory:", os.listdir())
+
 
 # Load the trained model
 model_path = "linear_model.pkl"  # Use relative path
